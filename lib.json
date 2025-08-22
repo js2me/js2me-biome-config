@@ -1,8 +1,5 @@
 {
-  "extends": [
-    "./config.json"
-  ],
-  "lint": {
+  "linter": {
     "rules": {
       "suspicious": {
         "noShadowRestrictedNames": "off"
