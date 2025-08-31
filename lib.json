@@ -3,6 +3,9 @@
     "rules": {
       "suspicious": {
         "noShadowRestrictedNames": "off"
+      },
+      "correctness": {
+        "useHookAtTopLevel": "off"
       }
     }
   }
