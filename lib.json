@@ -2,7 +2,8 @@
   "linter": {
     "rules": {
       "suspicious": {
-        "noShadowRestrictedNames": "off"
+        "noShadowRestrictedNames": "off",
+        "noUnsafeDeclarationMerging": "off"
       },
       "correctness": {
         "useHookAtTopLevel": "off"
